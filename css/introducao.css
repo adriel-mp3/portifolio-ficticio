@@ -70,7 +70,7 @@
   .introducao img{
     display: none;
   }
-  .introducao h1,p{
+  .introducao-conteudo > p, h1{
     text-align: center;
   }
 }

@@ -1,13 +1,14 @@
 :root{
+  --c0:#FFFFFF;
   --c1:#F5F5F5;
   --c3:#E0E0E0;
-  --c13:#141414;
   --c10:#525252;
+  --c13:#141414;
 }
 .cor-c1{
   color:var(--c1);
 }
-.corc3{
+.cor-c3{
   color:var(--c3)
 }
 .cor-c13{

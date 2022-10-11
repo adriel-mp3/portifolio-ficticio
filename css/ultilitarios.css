@@ -4,3 +4,10 @@
   padding-left: 20px;
   padding-right: 20px;
 }
+
+.titulo-grande {
+  font:700 9rem/1.0 "Fira Sans",sans-serif;
+  max-width: 4ch;
+  word-break: break-all;
+  text-transform: uppercase;
+}
